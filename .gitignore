@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.wasm
+*.wat
+*.d.ts
+!files.d.ts
